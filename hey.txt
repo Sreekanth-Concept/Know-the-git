@@ -1,4 +1,8 @@
 hey friends
 how are you
 
+<<<<<<< HEAD
 I am not good
+=======
+I am good
+>>>>>>> Feature_brnch
